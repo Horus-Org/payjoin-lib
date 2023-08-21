@@ -16,7 +16,7 @@ Payjoin brings privacy to bitcoin without changing the way you’re used to usin
 
 ## Roadmap
 
-- [ ] Sender/Receive
+- [ ] Sender/Receiver
 - [ ] Initial design for Dart, Rust, Javascript and Typescript
 - [ ] SDK
 - [ ] Alpha Software
