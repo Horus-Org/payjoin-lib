@@ -1,4 +1,4 @@
-# Payjoin Lib
+# Payjoin Library
 
 Library for PayJoin
 
