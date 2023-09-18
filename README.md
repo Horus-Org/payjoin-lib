@@ -2,6 +2,8 @@
 
 Library for PayJoin
 
+**Contributions are welcome**
+
 ## What is PayJoin?
 
 Payjoin brings privacy to bitcoin without changing the way you’re used to using it. Payjoin transactions don’t look any different from normal activity so they boost everyone’s privacy, even those who don’t payjoin, and foil chain surveillance.
