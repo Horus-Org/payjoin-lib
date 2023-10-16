@@ -1,4 +1,4 @@
-# Payjoin Library 🪙
+# Payjoin Library 🪙 
 
 Library for PayJoin
 
@@ -18,7 +18,7 @@ Payjoin brings privacy to bitcoin without changing the way you’re used to usin
 
 ## Roadmap
 
-- [ ] Sender/Receiver
-- [ ] Initial design for Dart, Rust, Javascript and Typescript
+- [x] Sender/Receiver
+- [x] Initial design for Dart, Rust, Javascript and Typescript
 - [ ] SDK
 - [ ] Alpha Software
