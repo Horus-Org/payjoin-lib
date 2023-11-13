@@ -6,3 +6,8 @@ Theses libraries will be used for help developers via SDK:
 - Rust
 - Dart
 - Javascript
+
+## Features
+
+- Sender
+- Receiver
