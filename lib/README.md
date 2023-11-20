@@ -11,4 +11,4 @@ Theses libraries will be used for help developers via SDK:
 
 - Sender
 - Receiver
-- Pajoin V2
+- Panjoin V2
