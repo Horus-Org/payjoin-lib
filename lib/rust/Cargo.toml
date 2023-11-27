@@ -1,5 +1,5 @@
 [package]
-name = "payjoin-lib"
+name = "payjoin-lib-rust"
 version = "0.10.0"
 license = "MIT OR Apache-2.0"
 edition = "2023"
