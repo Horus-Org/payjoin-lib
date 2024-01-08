@@ -1,3 +1,3 @@
-## Payjoin Library
+## Payjoin Library Releases and Development
 
 TBD
